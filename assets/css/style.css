@@ -1,0 +1,24 @@
+﻿body{
+    background: black;
+    color: white;
+
+}
+
+.logo {
+    color: #daa520;
+    font-style: italic;
+    font-family: "Elephant";
+}
+
+.nav-cab {
+   background-color: #daa520;
+
+}
+
+/*Footer*/
+
+i {
+    color: #daa520;
+}
+
+
